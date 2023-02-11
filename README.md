@@ -1,7 +1,8 @@
 # La-2-Guerra-Mondiale (Non ancora rilasciato!)
-Progetto scolastico che ho programmato come Presentazione per l'argomento 2GM
+_Progetto scolastico che ho programmato come Presentazione per l'argomento 2GM._
 Questo progetto è stato programmato con HaxeFlixel *(Haxe, HX)*, ed è liberamente compilabile!
-(11/02/2023) E' ancora privato, poichè ancora sotto svliuppo (penso di rilasciare il codice sorgente una volta terminato)
+
+- (11/02/2023) E' ancora privato, poichè ancora sotto svliuppo (penso di rilasciare il codice sorgente una volta terminato)
 
 
 # Guida alla Compilazione (Non acnora finita!)
