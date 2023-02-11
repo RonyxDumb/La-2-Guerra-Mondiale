@@ -11,8 +11,8 @@ Per poter compilare questo progetto, dovrai installare un paio di cosucce:
 - Installa [Haxe](https://haxe.org/download/).
 - Installa [HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/) dopo aver installato Haxe.
 - Installa dei pacchetti:
-
+ ```cmd 
 flixel
 flixel-addons
 flixel-ui
-
+ ```
