@@ -7,12 +7,12 @@ Questo progetto è stato programmato con HaxeFlixel *(Haxe, HX)*, ed è liberame
 # Guida alla Compilazione
 Per poter compilare questo progetto, dovrai installare un paio di cosucce:
 
-- 1. HaxeFlixel e tutte le sue Estensioni
+### HaxeFlixel e tutte le sue Estensioni
 - Installa [Haxe](https://haxe.org/download/).
 - Installa [HaxeFlixel](https://haxeflixel.com/documentation/install-haxeflixel/) dopo aver installato Haxe.
 - Installa dei pacchetti:
-'''cmd'''
+
 flixel
 flixel-addons
 flixel-ui
-'''cmd'''
+
